@@ -1,10 +1,10 @@
 .listing {
-  background: gray;
+  background: whitesmoke;
   border-radius: 30px;
   padding-bottom: 30px;
 }
 .listing-heading {
-  color: gray;
+  color: whitesmoke;
   padding: 10px 20px 0 20px;
 }
 .listing-photo {
